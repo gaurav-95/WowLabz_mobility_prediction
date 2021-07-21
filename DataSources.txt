@@ -1,0 +1,4 @@
+https://archive.ics.uci.edu/ml/datasets/GPS+Trajectories
+https://snap.stanford.edu/data/loc-brightkite.html
+https://snap.stanford.edu/data/loc-gowalla.html
+https://www.microsoft.com/en-us/download/details.aspx?id=52367
