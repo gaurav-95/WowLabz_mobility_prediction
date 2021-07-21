@@ -1,12 +1,12 @@
 # WowLabz_mobility_prediction
 
- Mobility Prediction task using latitute and longitute values with visualization
+ Mobility Prediction task using latitute and longitute values with visualization.
 
 Problem Statement:
 
-1. To predict the path of a new entity given a record of trajectories of people/records in terms of latitude and longitude values.
+1. To predict the path of a new entity given a record of trajectories of people/records in terms of latitude and longitude values with timestamps.
 
-2. To viusalize the highest likely path and plot it on a map that shows the trajectory of the new entity for 40 instances/time-periods of the path. (Lower timestamp intervals of 1, 10 or 15 preferred)
+2. To visualize the highest likely path and plot it on a map that shows the trajectory of the new entity for 40 instances/time-periods of the path. (Lower timestamp intervals of 1, 10 or 15 mins preferred)
 
 Idea reference origin url: https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html
 
