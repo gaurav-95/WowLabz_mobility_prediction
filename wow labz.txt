@@ -1,0 +1,27 @@
+dataset for locations of ids timestamp
+animation of the positions
+white dot for for next 40 timestamps 1 minute, 10 mins, 15 mins.
+
+new data point new id.
+starting point with
+
+https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html
+
+visuals
+
+afternoon saturday
+
+github
+
+README
+
+Probelem assignment
+
+Requirement
+Approach
+
+Resources with link
+
+models and animations
+
+varun.gyanchandani@wowlabz.com
