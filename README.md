@@ -23,7 +23,12 @@ https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sam
 
 Approach:
 
-To use RNN to predict the path of the object/ to cluster the object first then predict. 
+1. To use RNN to predict the path of the object.
+2. To cluster the paths defining hexagonal areas. Then find the probabilities of the path crossing that area.
+
+Conclusions:
+
+LSTM does better compared to bi-directional and gru in path regression
 
 Deadline:
 
