@@ -1,6 +1,8 @@
 # WowLabz_mobility_prediction
 
  Mobility Prediction task using latitute and longitute values with visualization.
+ 
+ <img src="https://github.com/gaurav-95/WowLabz_mobility_prediction/blob/main/Visual/path_snap.png"> 
 
 Problem Statement:
 
