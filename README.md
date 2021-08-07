@@ -30,7 +30,7 @@ Approach:
 
 Conclusions:
 
-LSTM does better compared to bi-directional and gru in path regression
+Bi-directional LSTM does better compared to LSTM and gru in path regression
 
 Deadline:
 
